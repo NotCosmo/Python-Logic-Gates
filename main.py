@@ -1,3 +1,5 @@
+# GITHUB: https://github.com/NotCosmo/Python-Logic-Gates
+
 class LogicGate():
 
     def __init__(self):
